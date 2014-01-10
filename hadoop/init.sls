@@ -1,5 +1,5 @@
 include:
-  - hadoop.java
+  - hadoop.user
 ssh:                 
   pkg:                  
     - installed         
